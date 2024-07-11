@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dog_pic (2).jpeg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\dog_pic (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1362</xmin>
+			<ymin>803</ymin>
+			<xmax>5856</xmax>
+			<ymax>4859</ymax>
+		</bndbox>
+	</object>
+</annotation>

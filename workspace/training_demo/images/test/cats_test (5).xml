@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>cats_test (5).jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\test\cats_test (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>6240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>508</ymin>
+			<xmax>3558</xmax>
+			<ymax>6240</ymax>
+		</bndbox>
+	</object>
+</annotation>
